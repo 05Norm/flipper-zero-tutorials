@@ -28,7 +28,7 @@ let storage = require("storage");
 // ************
 // IMPORTANT: Be sure this matches your computer keyboard layout!!!
 // See /ext/badusb/assets/layouts/ for list of supported keyboard layouts.
-let layout = "en-US";
+let layout = "de-DE.kl";
 
 // Local file to store system information.
 let localTempFolder = "flipper";
